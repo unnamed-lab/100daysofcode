@@ -5,7 +5,7 @@ In this endeavor, I turned to the OpenAI ChatGPT, an advanced language model, to
 
 ## Curated Challenges from OpenAI ChatGPT:
 
-Certainly! Here's a list of JavaScript challenges that can help you progress from a beginner to an expert level in JavaScript algorithms and data structures. The challenges are arranged in increasing difficulty, and I've included some tips and tricks for each challenge.
+Here's a list of JavaScript challenges that can help you progress from a beginner to an expert level in JavaScript algorithms and data structures. The challenges are arranged in increasing difficulty, and some tips and tricks have been included for each challenge.
 
 ### 1. Challenge: Reverse a String
 
@@ -113,3 +113,6 @@ _These challenges cover a wide range of algorithms and data structures commonly 
 
 ##  Commitment to Challenge Completion
 Undeterred by the potential length of the endeavor, I am committed to wholeheartedly tackling each challenge, striving to complete them all within the 100 days of code event.
+You can find me on Twitter [@unnamed_labs](https://twitter.com/unnamed_labs), where I will be sharing regular updates, insights, and resources related to my coding journey.
+
+![Build Status](https://img.shields.io/badge/Build-Ongoing-%2319d147)            [![Twitter Follow](https://img.shields.io/twitter/follow/unnamed_labs)](https://twitter.com/unnamed_labs)
