@@ -9,7 +9,7 @@ Here is a list of coding challenges to work on during the 100 Days of Code chall
 
 - [x] Challenge: Fibonacci Sequence -   ```src\day4\script.js```
 
-- [ ] Challenge: Find the Longest Word
+- [x] Challenge: Find the Longest Word -   ```src\day10\script.js```
 
 - [x] Challenge: Check for Palindrome -    ```src\day2\script.js```
 
