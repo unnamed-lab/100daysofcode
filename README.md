@@ -1,4 +1,4 @@
-![Build Status](https://img.shields.io/badge/Build-Ongoing-%2319d147) ![Twitter Follow](https://img.shields.io/twitter/follow/unnamed_labs)
+![Build Status](https://img.shields.io/badge/Build-Ongoing-%2319d147)            [![Twitter Follow](https://img.shields.io/twitter/follow/unnamed_labs)](https://twitter.com/unnamed_labs)
 # 100 Days of Code
 
 Welcome to my "100 Days of Code" repository! This repository documents my daily coding updates and the code I write throughout the challenge. The goal of this project is to commit to coding for at least an hour every day for the next 100 days to enhance my skills, explore new technologies, and build exciting projects.
@@ -19,4 +19,4 @@ I encourage you to explore the repository and follow along with my coding journe
 
 If you are also participating in the "100 Days of Code" challenge or simply interested in coding and technology, let's connect! You can find me on Twitter [@unnamed_labs](https://twitter.com/unnamed_labs), where I will be sharing regular updates, insights, and resources related to my coding journey.
 
-Thank you for joining me on this exciting coding adventure!
+### Thank you for joining me on this exciting coding adventure!
