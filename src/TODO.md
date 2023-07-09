@@ -3,15 +3,15 @@
 ## Challenges
 Here is a list of coding challenges to work on during the 100 Days of Code challenge:
 
-- [ ] Challenge: Reverse a String
+- [x] Challenge: Reverse a String -    ```src\day9\script.js```
 
 - [ ] Challenge: Factorial
 
-- [ ] Challenge: Fibonacci Sequence
+- [x] Challenge: Fibonacci Sequence -   ```src\day4\script.js```
 
 - [ ] Challenge: Find the Longest Word
 
-- [ ] Challenge: Check for Palindrome
+- [x] Challenge: Check for Palindrome -    ```src\day2\script.js```
 
 - [ ] Challenge: Sum of Two Numbers
 
