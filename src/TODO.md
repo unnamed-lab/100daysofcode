@@ -15,9 +15,9 @@ Here is a list of coding challenges to work on during the 100 Days of Code chall
 
 - [x] Challenge: Sum of Two Numbers -    ```src\day11\script.js```
 
-- [x] Challenge: Remove Duplicates
+- [x] Challenge: Remove Duplicates -    ```src\day13\script.js```
 
-- [x] Challenge: Capitalize Letters
+- [x] Challenge: Capitalize Letters -    ```src\day14\script.js```
 
 - [ ] Challenge: Anagram Detection
 
