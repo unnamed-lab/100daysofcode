@@ -13,7 +13,7 @@ Here is a list of coding challenges to work on during the 100 Days of Code chall
 
 - [x] Challenge: Check for Palindrome -    ```src\day2\script.js```
 
-- [ ] Challenge: Sum of Two Numbers
+- [x] Challenge: Sum of Two Numbers -    ```src\day11\script.js```
 
 - [ ] Challenge: Remove Duplicates
 
