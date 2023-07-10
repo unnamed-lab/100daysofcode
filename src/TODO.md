@@ -17,7 +17,7 @@ Here is a list of coding challenges to work on during the 100 Days of Code chall
 
 - [x] Challenge: Remove Duplicates
 
-- [ ] Challenge: Capitalize Letters
+- [x] Challenge: Capitalize Letters
 
 - [ ] Challenge: Anagram Detection
 
