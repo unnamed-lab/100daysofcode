@@ -19,7 +19,7 @@ Here is a list of coding challenges to work on during the 100 Days of Code chall
 
 - [x] Challenge: Capitalize Letters -    ```src\day14\script.js```
 
-- [ ] Challenge: Anagram Detection
+- [x] Challenge: Anagram Detection
 
 - [ ] Challenge: Binary Search
 
