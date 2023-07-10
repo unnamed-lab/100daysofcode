@@ -5,7 +5,7 @@ Here is a list of coding challenges to work on during the 100 Days of Code chall
 
 - [x] Challenge: Reverse a String -    ```src\day9\script.js```
 
-- [ ] Challenge: Factorial
+- [x] Challenge: Factorial -   ```src\day12\script.js```
 
 - [x] Challenge: Fibonacci Sequence -   ```src\day4\script.js```
 
