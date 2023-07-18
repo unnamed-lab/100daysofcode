@@ -1,41 +1,17 @@
 'use strict';
 
-const dataset = [
-  1,
-  2,
-  3,
-  4,
-  [5, 6],
-  7,
-  8,
-  [
-    [9, 10],
-    [11, 12, 13],
-  ],
-];
+// Task: Write a function to check if a given number is a power of two.
 
-const reverseList = function (arr) {
-  const newArr = [];
-  let i = arr.length - 1;
-  const isArr = function (arr) {
-    if (typeof arr === 'object') {
-      const anotherArr = [];
-      for (let j = arr.length - 1; j >= 0; j--) {
-        anotherArr.push(arr[j]);
-        if (typeof arr[j] === 'object') isArr(arr[j]);
-      }
-      arr = anotherArr;
-    }
-    arr.reverse();
-  };
+const dataset = [2, 3, 12, 18, 94];
 
-  do {
-    if (typeof arr[i] === 'object') isArr(arr[i]);
-    newArr.push(arr[i]);
-    i--;
-  } while (i >= 0);
-
-  return newArr;
+const checkPower = function (num) {
+  //  Check if when divided by two the remainder results to zero
+  if (num % 2 === 0) return `The number (${num}) is a power of two!`;
+  else return `The number (${num}) is not a power of two!`;
 };
 
-console.log(reverseList(dataset));
+console.log(checkPower(129));
+// Output: The number (129) is not a power of two!
+
+console.log(checkPower(824));
+// Output: The number (824) is a power of two!
