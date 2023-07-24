@@ -1,0 +1,114 @@
+* {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: white;
+}
+
+body {
+  background-image: linear-gradient(45deg, #1827f8, #2da0ff);
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  background-repeat: no-repeat;
+}
+
+.app_container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80vw;
+  margin: 0 auto;
+  padding-top: 3rem;
+  justify-content: center;
+  align-content: center;
+}
+.app_container .app_inputbox {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  width: 50%;
+  max-width: 50%;
+}
+.app_container .app_inputbox input {
+  width: 100%;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 0.5rem;
+  color: #242121;
+  font-size: 24px;
+  font-weight: 500;
+}
+.app_container .app_keypad {
+  width: 50%;
+  max-width: 60%;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: rgba(29, 38, 165, 0.7607843137);
+  box-shadow: 3px 8px 18px rgba(12, 18, 107, 0.937254902);
+}
+.app_container .app_keypad .app_row {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.75rem;
+  max-width: 100%;
+}
+.app_container .app_keypad .app_row .app_btn {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 0.45rem 6px;
+  font-size: 1.5rem;
+  padding: 0.4rem 0.75rem;
+  background-color: rgba(12, 18, 107, 0.937254902);
+  border-radius: 0.5rem;
+  justify-content: center;
+  box-shadow: 1px 2px 3px rgba(12, 18, 107, 0.937254902);
+  border: none;
+}
+.app_container .app_keypad .app_row .app_btn.remove {
+  background-color: #ff1547;
+}
+.app_container .app_keypad .app_row .app_btn.remove:hover {
+  cursor: pointer;
+  background-color: #ff1547;
+  transition: all 500ms;
+}
+.app_container .app_keypad .app_row .app_btn.remove:active {
+  cursor: pointer;
+  background-color: #eb1111;
+  transition: all 500ms;
+}
+.app_container .app_keypad .app_row .app_btn.spacebar {
+  width: 50%;
+}
+.app_container .app_keypad .app_row .app_btn.active {
+  cursor: pointer;
+  background-color: rgba(147, 154, 255, 0.8705882353);
+  transition: all 500ms;
+}
+.app_container .app_keypad .app_row .app_btn.active:hover {
+  cursor: pointer;
+  background-color: rgba(147, 154, 255, 0.8705882353);
+  transition: all 500ms;
+}
+.app_container .app_keypad .app_row .app_btn:hover {
+  cursor: pointer;
+  background-color: rgba(11, 15, 65, 0.937254902);
+  transition: all 500ms;
+}
+.app_container .app_keypad .app_row .app_btn:active {
+  cursor: pointer;
+  background-color: rgba(147, 154, 255, 0.8705882353);
+  transition: all 500ms;
+}
+.app_container .app_keypad .app_row .app_btn svg {
+  width: 2rem;
+  height: 2rem;
+  color: white;
+}
+
+/*  Custom SCSS Pack   */
+/*  Component SCSS Modules  */
+/*  Section SCSS Modules  */
+
+/*# sourceMappingURL=style.css.map */
